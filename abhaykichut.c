@@ -1,0 +1,1 @@
+printf("abahy ki chut mai bamboo")
